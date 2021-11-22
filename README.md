@@ -1,1 +1,1 @@
-## [View My GitHub Profile](https://github.com/stackflow)
+[View My GitHub Profile](https://github.com/stackflow)
